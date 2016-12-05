@@ -29,7 +29,7 @@ if(!isset($_SESSION['game']['tictactoe'])){
         </style>
     </head>
     <body>
-    	<h1>Tic Tac Toe - Hello Git-World</h1>
+    	<h1>Tic Tac Toe - Hello Git-World!!</h1>
         <div id="content">
 	        <?php $_SESSION['game']['tictactoe']->playGame(); ?>
         </div>
