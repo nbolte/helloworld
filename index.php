@@ -14,7 +14,7 @@ if(!isset($_SESSION['game']['tictactoe'])){
 ?>
 <html>
     <head>
-        <title>Tic Tac Toe</title>
+        <title>Hello World: Tic Tac Toe</title>
         
         <style>
         	.board_row{
